@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>paper on Stefan Kis</title>
-    <link>http://example.com/categories/paper/</link>
+    <link>https://stefklein.github.io/categories/paper/</link>
     <description>Recent content in paper on Stefan Kis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 20 Mar 2020 14:30:00 +0000</lastBuildDate><atom:link href="http://example.com/categories/paper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Mar 2020 14:30:00 +0000</lastBuildDate><atom:link href="https://stefklein.github.io/categories/paper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implicit-explicit finite-difference lattice Boltzmann model with varying adiabatic index</title>
-      <link>http://example.com/portfolio/tim19_proceedings/</link>
+      <link>https://stefklein.github.io/portfolio/tim19_proceedings/</link>
       <pubDate>Fri, 20 Mar 2020 14:30:00 +0000</pubDate>
       
-      <guid>http://example.com/portfolio/tim19_proceedings/</guid>
+      <guid>https://stefklein.github.io/portfolio/tim19_proceedings/</guid>
       <description>Abstract: The perfect fluid behaviour can be obtained from the Boltzmann equation in the limit of vanishing Knudsen number. By treating the collision term in an implicit manner, the implicit-explicit (IMEX) time stepping scheme allows this limit to be achieved at finite values of the time step. We consider the 9th order monotonicity-preserving (MP-9) scheme to implement the advection, which is treated explicitly in the IMEX approach. We reduce the computational costs using reduced distribution functions, which also permits the adiabatic index to be varied.</description>
     </item>
     
