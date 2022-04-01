@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop on Stefan Kis</title>
+    <link>http://example.com/categories/workshop/</link>
+    <description>Recent content in workshop on Stefan Kis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 07 Dec 2020 12:00:00 +0000</lastBuildDate><atom:link href="http://example.com/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Connecting high-energy astroparticle physics for origins of cosmic rays and future perspectives</title>
+      <link>http://example.com/portfolio/kyoto2020/</link>
+      <pubDate>Mon, 07 Dec 2020 12:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/kyoto2020/</guid>
+      <description>Organizers: Yukawa Institute for Theoretical Physics, Kyoto University
+Location: Kyoto, Japan
+Date: 7th of December 2020 - 10th of December 2020
+School website: Website
+Main topics:  Observational astrophysics (X-Ray, MeV, GeV, TeV gamma rays &amp;amp; other messengers &amp;ndash;cosmic rays &amp;amp; neutrinos&amp;ndash;) Review of recent progress in cosmic-ray physics  </description>
+    </item>
+    
+  </channel>
+</rss>

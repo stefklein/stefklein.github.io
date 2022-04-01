@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan Kis&#39; Website on Stefan Kis</title>
+    <link>http://example.com/</link>
+    <description>Recent content in Stefan Kis&#39; Website on Stefan Kis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Astrophysical sources of cosmic rays</title>
+      <link>http://example.com/portfolio/isapp-paris2022/</link>
+      <pubDate>Mon, 28 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/isapp-paris2022/</guid>
+      <description>Organizers: Institut Pascal, Université Paris-Saclay
+Location: Orsay, France
+Date: 19th of June 2022 - 24th of June 2022
+School website: Website
+ISAPP
+Main topics:  Introductory courses in astrophysics, particle physics and statistics Physics of high-energy showers Radiation, acceleration, propagation mechanisms Galactic sources Extragalactic sources Cosmic ray probes of fundamental physics Cosmic ray and gamma-ray detections: ground and space-based CTA + visit to CTA-related infrastructures at Paris-Saclay Multi-messenger approach Neutrinos: detectors and results Gravitational waves: detectors and results Hands-on sessions Student research projects Public lecture  </description>
+    </item>
+    
+    <item>
+      <title>Efficient numerical simulations of dynamical cosmic-ray transport</title>
+      <link>http://example.com/portfolio/heidelberg22/</link>
+      <pubDate>Wed, 23 Mar 2022 12:45:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/heidelberg22/</guid>
+      <description>Conference: DPG-Frühjahrstagung in &amp;lsquo;Heidelberg&amp;rsquo; conference.
+Type: Talk
+Date of presentation: 23rd of March 2022, 12:45
+Project lead: Stefan Kis
+Project members: Pranab Deka, Ralf Kissmann, Lukas Einkemmer
+Session: Matter and Cosmos Section (SMuK), Extraterrestrial Physics EP 6: Astrophysics - EP 6.7</description>
+    </item>
+    
+    <item>
+      <title>Modelling simulation and Physical phenomena of complex continua</title>
+      <link>http://example.com/portfolio/obergurgl2021/</link>
+      <pubDate>Mon, 26 Jul 2021 12:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/obergurgl2021/</guid>
+      <description>Organizers: University of Innsbruck
+Location: Obergurgl, Austria
+Date: 26th of July 2021 - 30th of July 2021
+School website: DK-CIM
+DOCC
+Programme PDF
+Main topics:  Updates &amp;amp; meetings between both doctoral programme members  </description>
+    </item>
+    
+    <item>
+      <title>Equation of state of dense matter and multimessenger astronomy</title>
+      <link>http://example.com/portfolio/karpacz2021/</link>
+      <pubDate>Sat, 19 Jun 2021 12:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/karpacz2021/</guid>
+      <description>Organizer: Institute of Theoretical Physics, University of Wroclaw
+Location: Karpacz, Poland
+Date: 19th of June 2021 - 26th of June 2021
+School website: Website
+Main topics:  Equation of state for astrophysical applications Multi-messenger astronomy Numerical modeling  </description>
+    </item>
+    
+    <item>
+      <title>Connecting high-energy astroparticle physics for origins of cosmic rays and future perspectives</title>
+      <link>http://example.com/portfolio/kyoto2020/</link>
+      <pubDate>Mon, 07 Dec 2020 12:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/kyoto2020/</guid>
+      <description>Organizers: Yukawa Institute for Theoretical Physics, Kyoto University
+Location: Kyoto, Japan
+Date: 7th of December 2020 - 10th of December 2020
+School website: Website
+Main topics:  Observational astrophysics (X-Ray, MeV, GeV, TeV gamma rays &amp;amp; other messengers &amp;ndash;cosmic rays &amp;amp; neutrinos&amp;ndash;) Review of recent progress in cosmic-ray physics  </description>
+    </item>
+    
+    <item>
+      <title>Implicit-explicit finite-difference lattice Boltzmann model with varying adiabatic index</title>
+      <link>http://example.com/portfolio/tim19_proceedings/</link>
+      <pubDate>Fri, 20 Mar 2020 14:30:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/tim19_proceedings/</guid>
+      <description>Abstract: The perfect fluid behaviour can be obtained from the Boltzmann equation in the limit of vanishing Knudsen number. By treating the collision term in an implicit manner, the implicit-explicit (IMEX) time stepping scheme allows this limit to be achieved at finite values of the time step. We consider the 9th order monotonicity-preserving (MP-9) scheme to implement the advection, which is treated explicitly in the IMEX approach. We reduce the computational costs using reduced distribution functions, which also permits the adiabatic index to be varied.</description>
+    </item>
+    
+    <item>
+      <title>First school for DOCC members</title>
+      <link>http://example.com/portfolio/obergurgl2020/</link>
+      <pubDate>Tue, 04 Feb 2020 12:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/obergurgl2020/</guid>
+      <description>Organizers: University of Innsbruck
+Location: Obergurgl, Austria
+Date: 4th of February 2020 - 7th of February 2020
+School website: DK-CIM
+DOCC
+Main topics:  Updates &amp;amp; meetings between both doctoral programme members  </description>
+    </item>
+    
+    <item>
+      <title>VIII Pontecorvo Neutrino Physics School</title>
+      <link>http://example.com/portfolio/sinaia2019/</link>
+      <pubDate>Sun, 01 Sep 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/sinaia2019/</guid>
+      <description>Organizers: JINR, CIFRA, Czech Technical University, Charles University, Comenius University
+Location: Sinaia, Romania
+Date: 1st of September 2019 - 10th of September 2019
+School website: Website
+Main topics:  Theory of neutrino mixing and masses Solar, atmospheric, reactor and geo neutrino experiments Direct neutrino mass measurements Neutrinoless double-beta decay (theory and experiment) Neutrino-nucleus interactions Sterile neutrinos Neutrino cosmology and astronomy Dark matter Leptogenesis and Baryogenesis Gravitational waves Statistics for nuclear and particle physics  </description>
+    </item>
+    
+    <item>
+      <title>High Energy and Particle Physics: Theory and Phenomenology</title>
+      <link>http://example.com/portfolio/ioannina2019/</link>
+      <pubDate>Sun, 09 Jun 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/ioannina2019/</guid>
+      <description>Organizer: SEENET-MTP, University of Ioannina
+Location: University of Ioannina, Ioannina, Greece
+Date: 3rd of June 2019 - 9th of June 2019
+School website: Website
+Main topics:  Particle physics Standard model Cosmology String theory  </description>
+    </item>
+    
+    <item>
+      <title>Implicit-Explicit Runge-Kutta schemes for the Boltzmann equation using the Shakov model</title>
+      <link>http://example.com/portfolio/tim19/</link>
+      <pubDate>Thu, 30 May 2019 17:15:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/tim19/</guid>
+      <description>Conference: TIM19 physics conference
+Type: Talk
+Date of presentation: 30th of May 2019, 17:15
+Project lead: Stefan T. Kis
+Project members: Victor E. Ambrus
+Session: TCP Session 3: TC-O12</description>
+    </item>
+    
+    <item>
+      <title>Spectroscopic properties of  YbF3-Doped (Ba/Ca)F2 crystals before and after X-ray irradiation</title>
+      <link>http://example.com/portfolio/tim17/</link>
+      <pubDate>Fri, 26 May 2017 13:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/tim17/</guid>
+      <description>Conference: TIM17 physics conference
+Type: Poster
+Date of presentation: 26th of May 2017
+Project lead: Marius Stef
+Project members: Irina Nicoara, Gabriel Buse and Stefan Kis
+Session: CMP Posters: CMP-P09</description>
+    </item>
+    
+    <item>
+      <title>Small angle neutron scattering</title>
+      <link>http://example.com/portfolio/dubna2015/</link>
+      <pubDate>Tue, 01 Sep 2015 12:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/portfolio/dubna2015/</guid>
+      <description>Organizers: JINR
+Location: Dubna, Russia
+Date: August(?) 2015
+School website: Website
+Main topics:  Neutron scattering experimental applications Showcase of nuclear reactor neutron production operations X-Ray applications on solid media  </description>
+    </item>
+    
+  </channel>
+</rss>
