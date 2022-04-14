@@ -100,6 +100,19 @@ Main topics:  Updates &amp;amp; meetings between both doctoral programme members
     </item>
     
     <item>
+      <title>GPU Programming with CUDA</title>
+      <link>https://stefklein.github.io/portfolio/prace2021/</link>
+      <pubDate>Sun, 01 Sep 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://stefklein.github.io/portfolio/prace2021/</guid>
+      <description>Organizers: TU Wien, UIBK
+Location: Innsbruck, Austria
+Date: 4th of October 2021 - 7th of October 2021
+School website: Website
+Main topics:  Introduction to GPU Computing with CUDA Memory hierarchies CUDA SDK CUDA programming best practices CUDA debugging HPC containers (Singularity) Application using the AMBER simulation package Advanced CUDA topics Introduction to GPU computing in Julia  </description>
+    </item>
+    
+    <item>
       <title>VIII Pontecorvo Neutrino Physics School</title>
       <link>https://stefklein.github.io/portfolio/sinaia2019/</link>
       <pubDate>Sun, 01 Sep 2019 12:00:00 +0000</pubDate>
